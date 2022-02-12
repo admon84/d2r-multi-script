@@ -1,8 +1,8 @@
 # d2r-multi-script
 
-d2r multi script is a lightweight PowerShell script that uses [Handle](https://docs.microsoft.com/en-us/sysinternals/downloads/handle) (a Sysinternals utility) to close the D2R "Check For Other Instances" process handle, making it easier to multi-box in Diablo II Resurrected.
+A lightweight PowerShell script that uses [Handle](https://docs.microsoft.com/en-us/sysinternals/downloads/handle) (a Sysinternals utility) to close the D2R "Check For Other Instances" process handle, making it easier to run more than one copy of Diablo II Resurrected.
 
-You can perform these same actions manually using Process Explorer. I found that to be cumbersome and decided to created this d2r multi script to use myself, and now I'm sharing it with you.
+The same steps can be done manually using Process Explorer. I found that to be cumbersome and created this script to use myself, and now I'm sharing it with you.
 
 ## Requirements
 
@@ -26,8 +26,6 @@ You can perform these same actions manually using Process Explorer. I found that
 
 ## How to use the d2r multi script (d2rms.ps1)
 
-Always use the `Diablo II Resurrected Launcher` icon/shortcut to launch the Battle.net app when multi-boxing.
-
 1. Run the `Diablo II Resurrected Launcher` to open your first copy of the game
 
 2. Login to your Battle.net account and click Play
@@ -49,6 +47,10 @@ When a D2R "Check For Other Instances" process handle and terminated:
 
 When a D2R "Check For Other Instances" process handle is not found to be running:
 ![d2rms error screenshot](https://user-images.githubusercontent.com/10291543/153690778-89a93142-151f-4953-873d-e8a63e60b697.png)
+
+## Troubleshooting
+
+Always use the Diablo II Resurrected Launcher icon or shortcut to launch D2R when multi-boxing.  If you use the generic Battle.net Launcher icon, this process may not work.
 
 ## Credits
 
