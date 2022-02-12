@@ -22,7 +22,7 @@ The same steps can be done manually using Process Explorer. I found that to be c
    - Move handle.exe to the same folder where you saved the d2rms.ps1 script
    - (or) Update your Path environment variable to include the path to handle.exe
 
-5. (Optional) Create desktop shortcuts to each `Diablo II Resurrected Launcher` file in each copy of the game folder you created
+5. (Optional) Create desktop shortcuts to each **Diablo II Resurrected Launcher** file in each copy of the game folder you created
 
 ## How to use the d2r multi script (d2rms.ps1)
 
@@ -30,7 +30,7 @@ The same steps can be done manually using Process Explorer. I found that to be c
 
 2. Login to your Battle.net account and click Play
 
-3. Run the d2rms.ps1 script in Windows PowerShell as Administrator to terminate the D2R "Check For Other Instances" process handle
+3. Run the `d2rms.ps1` script in Windows PowerShell as Administrator to terminate the D2R "Check For Other Instances" process handle
 
 4. Run the **Diablo II Resurrected Launcher** to open your next copy of the game
 
