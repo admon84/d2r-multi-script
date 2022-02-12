@@ -19,8 +19,8 @@ The same steps can be done manually using Process Explorer. I found that to be c
 3. Save the [d2rms.ps1](d2rms.ps1) script file to your PC (to make it easier to run the script later, save this script to your user's home folder such as `C:\Users\YourUsername\`)
 
 4. Download [Handle](https://docs.microsoft.com/en-us/sysinternals/downloads/handle) and choose either option to set it up:
-  - Move handle.exe to the same folder where you saved the d2rms.ps1 script on the previous step (or)
-  - Update your Path environment variable to include the path to handle.exe (so that you can run the `handle` command from any directory in your terminal)
+   - Move handle.exe to the same folder where you saved the d2rms.ps1 script on the previous step (or)
+   - Update your Path environment variable to include the path to handle.exe (so that you can run the `handle` command from any directory in your terminal)
 
 5. (Optional) Create desktop shortcuts to each `Diablo II Resurrected Launcher.exe` file in each copy of the game folder you created on step 2
 
