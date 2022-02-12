@@ -38,7 +38,7 @@ The same steps can be done manually using Process Explorer. I found that to be c
 
 6. Rinse and repeat steps 3-5 as many times as needed
 
-If you did everything correctly, there will be a "Play" button instead of a "Playing Now" button when you log in to your other accounts.
+If you did everything correctly, the launch game button will show "Play" instead of "Playing Now" when you log in to your other accounts.
 
 ## Screenshots
 
