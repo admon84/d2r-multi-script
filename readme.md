@@ -18,21 +18,21 @@ The same steps can be done manually using Process Explorer. I found that to be c
 
 3. Save the [d2rms.ps1](d2rms.ps1) script file to your PC (to make it easier to run the script later, save this script to your user's home folder such as `C:\Users\YourUsername\`)
 
-4. Download [Handle](https://docs.microsoft.com/en-us/sysinternals/downloads/handle) and choose either option to set it up:
-   - Move handle.exe to the same folder where you saved the d2rms.ps1 script on the previous step (or)
-   - Update your Path environment variable to include the path to handle.exe (so that you can run the `handle` command from any directory in your terminal)
+4. Download [Handle](https://docs.microsoft.com/en-us/sysinternals/downloads/handle) and extract the files:
+   - Move handle.exe to the same folder where you saved the d2rms.ps1 script
+   - (or) Update your Path environment variable to include the path to handle.exe
 
-5. (Optional) Create desktop shortcuts to each `Diablo II Resurrected Launcher.exe` file in each copy of the game folder you created on step 2
+5. (Optional) Create desktop shortcuts to each `Diablo II Resurrected Launcher` file in each copy of the game folder you created
 
 ## How to use the d2r multi script (d2rms.ps1)
 
-1. Run the `Diablo II Resurrected Launcher` to open your first copy of the game
+1. Run the **Diablo II Resurrected Launcher** to open your first copy of the game
 
 2. Login to your Battle.net account and click Play
 
 3. Run the d2rms.ps1 script in Windows PowerShell as Administrator to terminate the D2R "Check For Other Instances" process handle
 
-4. Run the `Diablo II Resurrected Launcher` to open your next copy of the game
+4. Run the **Diablo II Resurrected Launcher** to open your next copy of the game
 
 5. Login to your next Battle.net account and click Play
 
@@ -50,7 +50,7 @@ When a D2R "Check For Other Instances" process handle is not found to be running
 
 ## Troubleshooting
 
-Always use the Diablo II Resurrected Launcher icon or shortcut to launch D2R when multi-boxing.  If you use the generic Battle.net Launcher icon, this process may not work.
+Always use the **Diablo II Resurrected Launcher** icon or shortcut to launch D2R when multi-boxing.  If you use the generic **Battle.net Launcher** icon, this process may not work.
 
 ## Credits
 
