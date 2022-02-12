@@ -10,7 +10,7 @@ The same steps can be done manually using Process Explorer. I found that to be c
 - More than one licensed copy of Diablo II Resurrected
 - [Handle](https://docs.microsoft.com/en-us/sysinternals/downloads/handle) (used to terminate process handles by the d2r multi script)
 
-## Initial setup
+## First time setup
 
 1. Enable "Allow multiple instance of Battle.net" in your Battle.net app settings
 
