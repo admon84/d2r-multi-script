@@ -16,7 +16,7 @@ The same steps can be done manually using Process Explorer. I found that to be c
 
 2. In a File Explorer, navigate to your D2R installation folder (usually `C:\Program Files (x86)\Diablo II Resurrected`) and make a copy of the folder with a different name for each game/instance you plan to run
 
-3. Save the [d2rms.ps1](d2rms.ps1) script file to your PC (to make it easier to run the script later, save this script to your user's home folder such as `C:\Users\YourUsername\`)
+3. Save the [d2rms.ps1](d2rms.ps1) script file to your PC (to make it easier to run this script later, you can save this file to your user/home folder such as `C:\Users\YourUsername\`)
 
 4. Download [Handle](https://docs.microsoft.com/en-us/sysinternals/downloads/handle) and extract the files:
    - Move handle.exe to the same folder where you saved the d2rms.ps1 script
